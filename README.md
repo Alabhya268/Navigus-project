@@ -74,13 +74,3 @@ py manage.py runserver
 ```
 http://127.0.0.1:8000/
 ```
-
-## Feedback
-
-Any suggestion and feedback is welcome.
-
----
-
----
-
-###### Taken reference from LazyCoder.
