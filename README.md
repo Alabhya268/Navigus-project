@@ -1,6 +1,6 @@
 # Quiz Navigus
 
-> Developed by :Alabhya Singh, [Abhyudaya Bora](https://github.com/codeluna99)
+> Developed by :Alabhya Singh
 
 ---
 
